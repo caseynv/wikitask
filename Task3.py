@@ -1,6 +1,6 @@
 # install all the necessary dependencies
-!pip install mwapi
-!pip install pywikibot
+#!pip install mwapi
+#!pip install pywikibot
 '''
 mwapi is a MIT-licensed library provides a very simple convenience wrapper around the MediaWiki API, including support for authenticated sessions. 
 It requires Python 3 and that your wiki is using MediaWiki 1.15.3 or greater.'''
